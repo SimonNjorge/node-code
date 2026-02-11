@@ -1,0 +1,6 @@
+{"name": "node practice",
+  "type": "module",
+  "dependencies": {
+    "ini": "^5.0.0"
+  }
+}
